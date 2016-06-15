@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+.git file is created which in turns creates master branch that tracks the status of the files.

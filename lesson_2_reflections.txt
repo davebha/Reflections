@@ -6,3 +6,6 @@ It is an intermediate area where user has control of keeping files that they wan
 before final commit.
 The repository contains metadata that are not relevant to user.
 The working directory is a storage space that contains repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By laying focus on the feature and not the files,one commit should contain atleast one feature per logical change.

@@ -15,3 +15,7 @@ They would help in adding experimental feature to the same project or keep track
 
 How do the diagrams help you visualize the branch structure?
 It uses familiar symbols to help me visualize the branch structure.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It helps in adding a feature without making changes to main codebase.
+Usually it helps to test a feature on its own before connecting it to rest of the project.

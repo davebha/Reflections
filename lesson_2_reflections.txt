@@ -12,3 +12,6 @@ By laying focus on the feature and not the files,one commit should contain atlea
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 They would help in adding experimental feature to the same project or keep track of different platforms of code.
+
+How do the diagrams help you visualize the branch structure?
+It uses familiar symbols to help me visualize the branch structure.

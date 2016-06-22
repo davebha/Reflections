@@ -19,3 +19,8 @@ It uses familiar symbols to help me visualize the branch structure.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 It helps in adding a feature without making changes to main codebase.
 Usually it helps to test a feature on its own before connecting it to rest of the project.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+It is easy to know what is the difference of content between two commits when doing automatic merge.
+Doing manual merge may be beneficial in short term but it could end up with bugs if not carefully not done.
+

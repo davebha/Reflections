@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+When working on a large project,it helps to share your code with other people on the project.
+In this case,it would be ideal to push your commits to remote repository to finalize changes.

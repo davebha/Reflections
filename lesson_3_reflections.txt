@@ -4,3 +4,7 @@ In this case,it would be ideal to push your commits to remote repository to fina
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 To make sure that I am content with the changes I made to add to the remote repository.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A fork is used when cloning a repository on Github.Cloning can be used when cloning a remote or 
+local repository.Branching on the other hand can only be done locally.

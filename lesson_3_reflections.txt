@@ -8,3 +8,6 @@ To make sure that I am content with the changes I made to add to the remote repo
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 A fork is used when cloning a repository on Github.Cloning can be used when cloning a remote or 
 local repository.Branching on the other hand can only be done locally.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It is good to test the changes made by anyone.

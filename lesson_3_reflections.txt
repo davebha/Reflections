@@ -11,3 +11,7 @@ local repository.Branching on the other hand can only be done locally.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It is good to test the changes made by anyone.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I can use alternate version control system like SVN to collaborate on projects.
+While SVN allows me to collaborate using remote server,with Git,I can work offline as well.

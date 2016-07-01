@@ -15,3 +15,8 @@ It is good to test the changes made by anyone.
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I can use alternate version control system like SVN to collaborate on projects.
 While SVN allows me to collaborate using remote server,with Git,I can work offline as well.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+If the features themselves can make huge impact on the project itself than I would want it to be in a seperate branch.
+This would allow the minor functions to be added in the main workflow while major features can be incorporated on the side
+at the same time.
